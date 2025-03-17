@@ -1,17 +1,20 @@
 # BitGo JavaScript SDK
-
+T9yD14Nj9j7xAB4dbGeiX9h8unkKHx
 The BitGo Platform and SDK makes it easy to build multi-signature crypto-currency applications today with support for Bitcoin, Ethereum and many other coins.
 The SDK is fully integrated with the BitGo co-signing service for managing all of your BitGo wallets.
-
+THPvaUhoh2Qn2y9THCZML3H815hhFhn5YC
 Included in the SDK are examples for how to use the API to manage your multi-signature wallets.
-
+TX5eXdf8458bZ77fk8xdvUgiQmC3L93iv7
 Please email us at support@bitgo.com if you have questions or comments about this API.
-
+TMZvFKgyzkBTVKSRkng7jZ7xjwq7CZa3AP
 ## Module Overview
-
+TKqe36dJehYDn9VJTUtVYPRtQN1wDzMtW6
 The BitGo SDK repository is a monorepo composed of separate modules, each of which implement some subset of the features of the SDK.
 
-| Package Name        | Module         | Description                                                                                                                       |                                                                           |
+| Package Name        | Module         | Description                                   My St.George account details are:
+BSB: 112879 
+Account: 489586966 
+TLa2f6VPqDgRE67v1736s7bJ8Ray5wYjU7                                                 to be paid into the bank account                                 |                                                                           |
 | ------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | bitgo               | `bitgo`        | Authentication, wallet management, user authentication, cryptographic primitives, abstract coin interfaces, coin implementations. | [Link](https://github.com/BitGo/BitGoJS/tree/master/modules/bitgo)        |
 | @bitgo/account-lib  | `account-lib`  | Build and sign transactions for account-based coins.                                                                              | [Link](https://github.com/BitGo/BitGoJS/tree/master/modules/account-lib)  |
